@@ -1,4 +1,6 @@
-# object-detection
+# Object-Detection
+
+Colección de los modelos más usados y los enlaces a cada modelo específico:
 
 [TOC]
 
